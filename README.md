@@ -7,4 +7,4 @@ Custom VyOS Build using 1.4 rolling with the following extras installed
 - git
 - moreutils
 - tree
-
+- sops
