@@ -1,6 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "username": "lewis-bot[bot]",
-  "gitAuthor": "lewis-bot <lewis-bot[bot]@users.noreply.github.com>",
+  "gitAuthor": "lewis-bot <330372+lewis-green-bot[bot]@users.noreply.github.com>",
   "repositories": ["lewis-green/vyos-build"]
 }
