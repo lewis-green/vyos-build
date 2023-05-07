@@ -10,7 +10,7 @@ env:
   VYOS_URL: https://github.com/vyos/vyos-build
   VYOS_BRANCH: current
   VYOS_ARCH: amd64
-  VYOS_BUILD_BY: lewis-green-bot[bot]@users.noreply.github.com
+  VYOS_BUILD_BY: 330372+lewis-green-bot[bot]@users.noreply.github.com
   VYOS_BUILD_TYPE: release
   VYOS_VERSION: 1.4-rolling
 
