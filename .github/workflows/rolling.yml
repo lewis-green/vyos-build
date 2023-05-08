@@ -64,7 +64,8 @@ jobs:
               --custom-package "jo" \
               --custom-package "jq" \
               --custom-package "moreutils" \
-              --custom-package "tree"
+              --custom-package "tree" \
+              --custom-package "iptables"
 
       - name: Create release with artifact
         uses: ncipollo/release-action@a2e71bdd4e7dab70ca26a852f29600c98b33153e # v1
